@@ -13,3 +13,15 @@
 ## Skills
 
 I read the Modern JavaScript Tutorial
+
+## Code examples
+```
+function price(n){
+
+  if (n < 5) return n * 100;
+  if (n >= 5 && n < 10) return n * 95;
+  else return n * 90;
+}
+
+console.log( price (3) )
+```
