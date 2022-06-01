@@ -27,3 +27,9 @@ console.log( price (3) )
 ```
 
 ## Work experience
+
+## Education
+
+Odessa National Academy of Communications named after A.S. Popov
+Information technical protection systems, automation of its processing
+September 2010 - Janyary 2016
