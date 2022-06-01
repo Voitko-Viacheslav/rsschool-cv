@@ -9,3 +9,7 @@
 ## About me
 
 *My name is Vyacheslav my goal is to become a **js programmer**, on the course I will try to enter the **top 500**, do not lose heart, reach the end and, most importantly, gain knowledge*
+
+## Skills
+
+I read the Modern JavaScript Tutorial
