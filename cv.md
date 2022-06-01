@@ -33,3 +33,7 @@ console.log( price (3) )
 Odessa National Academy of Communications named after A.S. Popov
 Information technical protection systems, automation of its processing
 September 2010 - Janyary 2016
+
+## English language
+
+English level: A0
