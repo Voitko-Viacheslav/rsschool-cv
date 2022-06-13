@@ -1,3 +1,150 @@
-body {
-    background-color: yellow;
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.4;
+    min-height: 100vh;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;  
+  }
+
+  html {
+    scroll-behavior: smooth; 
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto; 
+  }
+
+  .nav {
+    background-color: #a75757;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .nav-link {
+    font-size: 16px;
+    line-height: 50px;
+    text-decoration: none;
+    transition: 0.5s;
+    padding: 0 20px;
+    color: #000000;
+  }
+
+  .nav-link:hover {
+    color: #045704;
+  }
+
+  .section-head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;   
+    background-color: #3c7575;
+  }
+
+  .div-head {
+    width: 50%;
+    text-align: center;
+  }
+
+  .section-head-title {
+    padding-top: 80px;
+  }
+
+  .img {
+    width: 200px;
+    height: 280px;
+    border-radius: 50%;
+  }
+
+  .job {
+    text-transform: uppercase;   
+  }
+
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #3c7575;
+  }
+
+  .section {
+    width: 50%;
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      width: 100%;
+    }
+  }
+
+  .section-title {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #000;
+  }
+
+  .my-contacts {
+    color: #000000;
+    transition: 0.7s;
+    text-decoration: none;
 }
+
+  .my-contacts:hover {
+    color: #045704;
+  }
+
+  .list-projects {
+    color: #000000;
+    transition: 0.7s;
+    text-decoration: none;
+  }
+
+  .list-projects:hover {
+    color: #045704;
+  }
+
+  .my-code {
+    background-color: #378080;
+  }
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #a75757;
+    padding-top: 10px;
+  }
+
+  .favicon {
+    width: 80px;
+    height: auto; 
+    padding-top: 7px;
+  }
+
+  .github {
+    width: 70px;
+    height: auto;
+  }
+
+  .year {
+    font-weight: 700;
+  }
+
+ 
+  
