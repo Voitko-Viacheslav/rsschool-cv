@@ -26,3 +26,23 @@ function price(n){
 }
 console.log( price (3) )
 ```
+
+## Work experience
+* Travel
+* Momentum
+* Online-zoo
+* Shelter
+* Codejam-eldritch
+* Codejam-fifteen 
+
+## Education
+1. Odessa National Academy of Communications named after A.S. Popov
+Information technical protection systems, automation of its processing
+September 2010 - Janyary 2016
+2. Courses: 
+* JS/FE Pre-School 2022Q2
+* JavaScript/Front-end 2022Q3
+* JavaScript/Front-end 2023Q1
+
+## English language
+English level: A1
