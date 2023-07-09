@@ -177,3 +177,58 @@ body {
 }
 
 /* End FOOTER ________________________________________________________ */
+
+
+
+@media (max-width: 900px) {
+    body {
+        font-size: 12px;
+    }
+
+    .right-indent {
+        margin-right: 20px;
+    }
+
+    .title {
+        margin-top: 70px;
+        font-size: 32px;
+    }
+
+    .second-title,
+    .second-title-right {
+        font-size: 16px;
+    }
+
+    .profession {
+        margin: 10px 0;
+    }
+}
+
+
+@media (max-width: 600px) {
+    body {
+        font-size: 10px;
+    }
+
+    .right-side {
+        max-width: 60%;
+        min-height: 760px;
+    }
+
+    .nav-item {
+        padding: 10px;
+    }
+
+    .right-indent {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .left-indent {
+        margin-left: 5px;
+    }
+
+    .nav-item {
+        padding: 5px;
+    }
+}
